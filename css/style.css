@@ -23,3 +23,8 @@ body{
 .obj_team{
   margin-bottom: 0;
 }
+
+.bg-footer{
+  background-color: #000000;
+  color: #ffffff;
+}
